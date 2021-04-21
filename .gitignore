@@ -1,0 +1,17 @@
+/node_modules/
+/build/
+.vscode
+/bin
+.idea/
+deploy*.json
+
+# OpenZeppelin
+.openzeppelin/dev-*.json
+.openzeppelin/.session
+
+#Hardhat files
+cache
+artifacts
+
+*.log
+
